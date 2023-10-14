@@ -1,6 +1,2 @@
 ### Hi there 👋
-
-
-🛜Estudante de Engenharia de Telecomunicações no IFCE
-
-🍎IOS Foundation desenvolvedor na Apple Developer Academy
+Sou a Taissa, estudante de eEngenharia de Telecomunicações no IFCE, e faço parte do IOS Foundation desenvolvedor na Apple Developer Academy 🍎👨🏻‍💻
